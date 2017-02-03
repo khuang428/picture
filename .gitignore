@@ -1,3 +1,9 @@
+# Image files
+*.ppm
+*.png
+*.jpg
+*.jpeg
+
 # Object files
 *.o
 *.ko
